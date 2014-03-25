@@ -1,3 +1,9 @@
+## To Run the server
+
+```
+  $ python -m SimpleHTTPServer
+```
+
 ## Introduction
 - [x] Introduction  5m 14s
 - [x] Installation  5m 32s
